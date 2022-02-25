@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1",
+    "nodemon": "^2.0.14",
+    "socket.io": "^4.3.1",
+    "socket.io-client": "^4.3.2",
+    "socketio-file-upload": "^0.7.3"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "name": "module6-group-module6-group-501040-502554",
+  "description": "REPLACE-THIS-TEXT-WITH-YOUR-NAME-STUDENT-ID-AND-GITHUB-USERNAME",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cse330-fall-2021/module6-group-module6-group-501040-502554.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cse330-fall-2021/module6-group-module6-group-501040-502554/issues"
+  },
+  "homepage": "https://github.com/cse330-fall-2021/module6-group-module6-group-501040-502554#readme"
+}
