@@ -1,8 +1,3 @@
-# CSE330
-JIANJUN WEI-501040-weijj27
-
-XINGZHOU ZHOU-502554-B33MO
-
 This chatroom is host on http://localhost:3000/
 
 Functions:
@@ -27,25 +22,25 @@ Functions:
 
     Change to a private room requires a correct password.
 
-3. Send message.
+4. Send message.
 
     User can send message to the chat room.
 
     Only the user in current room can see the message.
 
-4. Send pricate message.
+5. Send pricate message.
 
     User can click the 'message' button on the side bar and send private message to another user in this room.
 
     Only the user received the private message can see the private message.
 
-5. Kick user.
+6. Kick user.
 
     The creator of a room can kick a user.
 
     The kicked user would go back to the home room which is 'global'.
 
-6. Ban user.
+7. Ban user.
 
     The creator of a room can ban a user.
 
@@ -53,7 +48,7 @@ Functions:
 
     The kicked user would not be able to enter the room in which it is banned.
 
-7. Display users and rooms.
+8. Display users and rooms.
 
     The rooms and the users would be displayed on the sidebar.
 
@@ -89,11 +84,3 @@ Creative part:
 
     Message sent time:          Every message a user sent would be attached with a name who sent this message and the time when the message is sent.
         
-
-
-
-        
-    
-
-
-
